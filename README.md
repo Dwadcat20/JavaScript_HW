@@ -1,1 +1,1 @@
-# JavaScript_HWЙФЦВСыфваМСВЫАМВЫАМВАПМВАП
+# JavaScript_HW
